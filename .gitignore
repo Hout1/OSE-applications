@@ -1,0 +1,14 @@
+config.txt
+*.ipynb_checkpoints 
+_*.ipynb
+
+/logs
+/data
+
+*.tif
+*.csv
+*.xlsx
+*.sh
+*.html
+*.log
+*.DS_Store

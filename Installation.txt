@@ -1,0 +1,74 @@
+https://Installation of ADAM Flood on Ubuntu Server
+
+
+OS Requirement:
+Ubuntu 16
+
+MiniConda 32bit
+https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04
+
+download here:
+https://repo.continuum.io/miniconda/
+
+bash Miniconda3-latest-Linux-x86.sh
+
+sudo apt-get install python-dev
+
+__________________________________________________________________
+Installation
+
+conda create -p '/home/ubuntu/Desktop/floods_alert_dev_py3' python=3
+conda create -p '/home/ubuntu/Desktop/floods_georss_dev_py2' python=2.7
+
+source activate /home/ubuntu/Desktop/floods_alert_dev_py3
+source activate /home/ubuntu/Desktop/floods_georss_dev_py2
+
+git clone https://github.com/wfp/ADAM-floods.git
+PW: Michael has the 2FA
+
+pip install -r Requirements_py3.txt
+pip install -r Requirements_py2.txt
+
+Create the config.txt file
+
+__________________________________________________________________
+ISSUE
+
+If psycopg2 doesn't install using pip install, do:
+
+conda install psycopg2
+
+Cannot install hdx-python-api
+
+__________________________________________________________________
+CONDA install
+#conda install --yes --file requirements.txt -n ENVIRONMENT -p PATH
+#while read requirement; do conda install 
+#--yes $requirement; done < requirements.txt
+
+__________________________________________________________________
+Crontask
+
+chmod 755 script.py
+
+30 9 * * * cd /Users/michael/GEO/adamf_dev/script && /Users/michael/GEO/flood_dev_py3/bin/python /Users/michael/GEO/adamf_dev/script/dev_alert.py > /Users/michael/GEO/adamf_dev/logs/`date +\%Y\%m\%d`-cron.log 2>&1
+
+__________________________________________________________________
+IF GDAL is not installed in ubuntu server
+
+conda install -c conda-forge gdal
+
+__________________________________________________________________
+EarthEngine authenticate using bash
+
+%%bash
+earthengine authenticate --quiet
+
+%%bash
+earthengine authenticate --authorization-code=PLACE_AUTH_CODE_HERE
+
+*optional
+%%bash
+rm ~/.config/earthengine
+
+

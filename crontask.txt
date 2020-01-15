@@ -1,0 +1,3 @@
+30 9 * * * cd /Users/michael/GEO/adamf_dev/script && /Users/michael/GEO/flood_dev_py3/bin/python /Users/michael/GEO/adamf_dev/script/dev_alert.py > /Users/michael/GEO/adamf_dev/logs/`date +\%Y\%m\%d`-cron.log 2>&1
+
+0 22 * * 5 cd /Users/michael/GEO/adamf_dev/script && /Users/michael/GEO/flood_dev_py3/bin/python /Users/michael/GEO/adamf_dev/script/cleanup.py > /Users/michael/GEO/adamf_dev/logs/`date +\%Y\%m\%d`_cleanup-cron.log 2>&1

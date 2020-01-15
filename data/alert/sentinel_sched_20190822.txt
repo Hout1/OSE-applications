@@ -1,0 +1,34 @@
+Turkey: Tarsus 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2019, 8, 16) datetime.date(2019, 8, 17)
+ datetime.date(2019, 8, 16) datetime.date(2019, 8, 17)
+ datetime.date(2019, 8, 16) datetime.date(2019, 8, 17)
+ datetime.date(2019, 8, 11)]
+
+India: Jodhpur 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2019, 8, 12) datetime.date(2019, 8, 21)
+ datetime.date(2019, 8, 21) datetime.date(2019, 8, 16)
+ datetime.date(2019, 8, 12) datetime.date(2019, 8, 12)]
+
+Turkey: Tarsus 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2019, 8, 27) datetime.date(2019, 8, 28)
+ datetime.date(2019, 8, 27) datetime.date(2019, 8, 28)
+ datetime.date(2019, 8, 27) datetime.date(2019, 8, 28)
+ datetime.date(2019, 8, 22)]
+
+India: Jodhpur 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2019, 8, 23) datetime.date(2019, 9, 1)
+ datetime.date(2019, 9, 1) datetime.date(2019, 8, 27)
+ datetime.date(2019, 8, 23) datetime.date(2019, 8, 23)]
+

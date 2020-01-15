@@ -1,0 +1,1816 @@
+Sudan: Tokar 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 4)]
+
+Sudan: Kassala 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)]
+
+Somalia: Jilib 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12)]
+
+Bangladesh: Barisal 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Chittagong 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)]
+
+Myanmar: Shwebo 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 14) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 4)]
+
+Myanmar: Myitkyina 
+red alert! 
+There are 15 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 14) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 6)]
+
+Myanmar: Katha 
+red alert! 
+There are 9 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 14) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 14) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 7)]
+
+India: Sibsagar 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 14) datetime.date(2020, 1, 11)]
+
+India: Karimganj 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)]
+
+India: Cachar 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)]
+
+Bangladesh: Sylhet 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)]
+
+Bangladesh: Sunamganj 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 9)]
+
+Bangladesh: Maulvibazar 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)]
+
+Bangladesh: Habiganj 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Kishoreganj 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Brahamanbaria 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Comilla 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 9)]
+
+Bangladesh: Narsingdi 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Gazipur 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Madaripur 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5)]
+
+Bangladesh: Gopalganj 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 5)]
+
+Bangladesh: Faridpur 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Dhaka 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)]
+
+Bangladesh: Manikganj 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)]
+
+Bangladesh: Tangail 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5)]
+
+Bangladesh: Sherpur 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)]
+
+India: Barpeta 
+orange alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 9)]
+
+Pakistan: Muzaffargarh District 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 6) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 11)]
+
+Pakistan: Dera Ghazi Khan District 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 4)]
+
+Pakistan: Shikarpur District 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 12)]
+
+Pakistan: Larkana District 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5)]
+
+Pakistan: Dadu District 
+red alert! 
+There are 12 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 4)]
+
+Pakistan: Ghotki District 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 11)]
+
+Pakistan: Bahawalpur District 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 11) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 11)]
+
+India: Bharuch 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)]
+
+Bangladesh: Kurigram 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 10)]
+
+Bangladesh: Rangpur 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 10)]
+
+India: Katihar 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 10)]
+
+India: Madhubani 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12)]
+
+India: Sitamarhi 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 8)]
+
+India: Begusarai 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12)]
+
+Bangladesh: Jhenaidah 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Magura 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 5)]
+
+India: Jajpur 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9)]
+
+India: Bhadrak 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 10) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 10) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9)]
+
+India: Janjgir-Champa 
+orange alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 13)]
+
+India: Garhchiroli 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 12)]
+
+India: East Godavari 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 8) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7)]
+
+India: Khammam 
+red alert! 
+There are 9 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 8) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7)]
+
+India: Nalgonda 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 6) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 12)]
+
+India: Guntur 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 6) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12)]
+
+India: Prakasam 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)]
+
+India: West Godavari 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 8) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7)]
+
+India: Cuddapah 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)]
+
+India: Kurnool 
+red alert! 
+There are 10 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)]
+
+India: Belgaum 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 10) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 4)]
+
+India: Surat 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 10) datetime.date(2020, 1, 9)]
+
+Somalia: Jowhar 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 8)]
+
+Sudan: Tokar 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 4)]
+
+Sudan: Kassala 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)]
+
+Somalia: Jilib 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12)]
+
+Bangladesh: Barisal 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Chittagong 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)]
+
+Myanmar: Shwebo 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 14) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 4)]
+
+Myanmar: Myitkyina 
+red alert! 
+There are 15 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 14) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 6)]
+
+Myanmar: Katha 
+red alert! 
+There are 9 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 14) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 14) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 7)]
+
+India: Sibsagar 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 14) datetime.date(2020, 1, 11)]
+
+India: Karimganj 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)]
+
+India: Cachar 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)]
+
+Bangladesh: Sylhet 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)]
+
+Bangladesh: Sunamganj 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 9)]
+
+Bangladesh: Maulvibazar 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)]
+
+Bangladesh: Habiganj 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Kishoreganj 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Brahamanbaria 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Comilla 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 9)]
+
+Bangladesh: Narsingdi 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Gazipur 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Madaripur 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5)]
+
+Bangladesh: Gopalganj 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 5)]
+
+Bangladesh: Faridpur 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Dhaka 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)]
+
+Bangladesh: Manikganj 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)]
+
+Bangladesh: Tangail 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5)]
+
+Bangladesh: Sherpur 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)]
+
+India: Barpeta 
+orange alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 9)]
+
+Pakistan: Muzaffargarh District 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 6) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 11)]
+
+Pakistan: Dera Ghazi Khan District 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 4)]
+
+Pakistan: Shikarpur District 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 12)]
+
+Pakistan: Larkana District 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5)]
+
+Pakistan: Dadu District 
+red alert! 
+There are 12 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 4)]
+
+Pakistan: Ghotki District 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 11)]
+
+Pakistan: Bahawalpur District 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 11) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 11)]
+
+India: Bharuch 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)]
+
+Bangladesh: Kurigram 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 10)]
+
+Bangladesh: Rangpur 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 10)]
+
+India: Katihar 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 10)]
+
+India: Madhubani 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12)]
+
+India: Sitamarhi 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 8)]
+
+India: Begusarai 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12)]
+
+Bangladesh: Jhenaidah 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Magura 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 5)]
+
+India: Jajpur 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9)]
+
+India: Bhadrak 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 10) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 10) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9)]
+
+India: Janjgir-Champa 
+orange alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 13)]
+
+India: Garhchiroli 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 12)]
+
+India: East Godavari 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 8) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7)]
+
+India: Khammam 
+red alert! 
+There are 9 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 8) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7)]
+
+India: Nalgonda 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 6) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 12)]
+
+India: Guntur 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 6) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12)]
+
+India: Prakasam 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)]
+
+India: West Godavari 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 8) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7)]
+
+India: Cuddapah 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)]
+
+India: Kurnool 
+red alert! 
+There are 10 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)]
+
+India: Belgaum 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 10) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 4)]
+
+India: Surat 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 10) datetime.date(2020, 1, 9)]
+
+Somalia: Jowhar 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 8)]
+
+Sudan: Tokar 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 4)]
+
+Sudan: Kassala 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)]
+
+Somalia: Jilib 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12)]
+
+Bangladesh: Barisal 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Chittagong 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)]
+
+Myanmar: Shwebo 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 14) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 4)]
+
+Myanmar: Myitkyina 
+red alert! 
+There are 15 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 14) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 6)]
+
+Myanmar: Katha 
+red alert! 
+There are 9 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 14) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 14) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 7)]
+
+India: Sibsagar 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 14) datetime.date(2020, 1, 11)]
+
+India: Karimganj 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)]
+
+India: Cachar 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)]
+
+Bangladesh: Sylhet 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)]
+
+Bangladesh: Sunamganj 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 9)]
+
+Bangladesh: Maulvibazar 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)]
+
+Bangladesh: Habiganj 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Kishoreganj 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Brahamanbaria 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Comilla 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 9)]
+
+Bangladesh: Narsingdi 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Gazipur 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Madaripur 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5)]
+
+Bangladesh: Gopalganj 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 5)]
+
+Bangladesh: Faridpur 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Dhaka 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)]
+
+Bangladesh: Manikganj 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)]
+
+Bangladesh: Tangail 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5)]
+
+Bangladesh: Sherpur 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)]
+
+India: Barpeta 
+orange alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 9)]
+
+Pakistan: Muzaffargarh District 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 6) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 11)]
+
+Pakistan: Dera Ghazi Khan District 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 4)]
+
+Pakistan: Shikarpur District 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 12)]
+
+Pakistan: Larkana District 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5)]
+
+Pakistan: Dadu District 
+red alert! 
+There are 12 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 4)]
+
+Pakistan: Ghotki District 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 11)]
+
+Pakistan: Bahawalpur District 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 11) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 11)]
+
+India: Bharuch 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)]
+
+Bangladesh: Kurigram 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 10)]
+
+Bangladesh: Rangpur 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 10)]
+
+India: Katihar 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 10)]
+
+India: Madhubani 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12)]
+
+India: Sitamarhi 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 8)]
+
+India: Begusarai 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12)]
+
+Bangladesh: Jhenaidah 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Magura 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 5)]
+
+India: Jajpur 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9)]
+
+India: Bhadrak 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 10) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 10) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9)]
+
+India: Janjgir-Champa 
+orange alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 13)]
+
+India: Garhchiroli 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 12)]
+
+India: East Godavari 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 8) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7)]
+
+India: Khammam 
+red alert! 
+There are 9 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 8) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7)]
+
+India: Nalgonda 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 6) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 12)]
+
+India: Guntur 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 6) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12)]
+
+India: Prakasam 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)]
+
+India: West Godavari 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 8) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7)]
+
+India: Cuddapah 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)]
+
+India: Kurnool 
+red alert! 
+There are 10 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)]
+
+India: Belgaum 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 10) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 4)]
+
+India: Surat 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 10) datetime.date(2020, 1, 9)]
+
+Somalia: Jowhar 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 8)]
+
+Sudan: Tokar 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 4)]
+
+Sudan: Kassala 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)]
+
+Somalia: Jilib 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12)]
+
+Bangladesh: Barisal 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Chittagong 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)]
+
+Myanmar: Shwebo 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 14) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 4)]
+
+Myanmar: Myitkyina 
+red alert! 
+There are 15 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 14) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 6)]
+
+Myanmar: Katha 
+red alert! 
+There are 9 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 14) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 14)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 14) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 7)]
+
+India: Sibsagar 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 14) datetime.date(2020, 1, 11)]
+
+India: Karimganj 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)]
+
+India: Cachar 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)]
+
+Bangladesh: Sylhet 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)]
+
+Bangladesh: Sunamganj 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 9)]
+
+Bangladesh: Maulvibazar 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)]
+
+Bangladesh: Habiganj 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Kishoreganj 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Brahamanbaria 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Comilla 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 9)]
+
+Bangladesh: Narsingdi 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Gazipur 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 5)]
+
+Bangladesh: Madaripur 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5)]
+
+Bangladesh: Gopalganj 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 5)]
+
+Bangladesh: Faridpur 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Dhaka 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)]
+
+Bangladesh: Manikganj 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)]
+
+Bangladesh: Tangail 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5)]
+
+Bangladesh: Sherpur 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)]
+
+India: Barpeta 
+orange alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 5) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 9)]
+
+Pakistan: Muzaffargarh District 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 6) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 11)]
+
+Pakistan: Dera Ghazi Khan District 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 11) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 4)]
+
+Pakistan: Shikarpur District 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 12)]
+
+Pakistan: Larkana District 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5)]
+
+Pakistan: Dadu District 
+red alert! 
+There are 12 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 4)]
+
+Pakistan: Ghotki District 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 11)]
+
+Pakistan: Bahawalpur District 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 11) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 11)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 11)]
+
+India: Bharuch 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)]
+
+Bangladesh: Kurigram 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 10)]
+
+Bangladesh: Rangpur 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 10)]
+
+India: Katihar 
+red alert! 
+There are 6 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 10)]
+
+India: Madhubani 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12)]
+
+India: Sitamarhi 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 12) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 9) datetime.date(2020, 1, 8)]
+
+India: Begusarai 
+red alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 12)]
+
+Bangladesh: Jhenaidah 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 5)]
+
+Bangladesh: Magura 
+red alert! 
+There are 2 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 5)]
+
+India: Jajpur 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 9) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 4) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9)]
+
+India: Bhadrak 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 10) datetime.date(2020, 1, 4)
+ datetime.date(2020, 1, 10) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 9)]
+
+India: Janjgir-Champa 
+orange alert! 
+There are 3 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 13)]
+
+India: Garhchiroli 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 12)]
+
+India: East Godavari 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 7) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 8) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7)]
+
+India: Khammam 
+red alert! 
+There are 9 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 12)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 8)
+ datetime.date(2020, 1, 8) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7)]
+
+India: Nalgonda 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 6) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 12)]
+
+India: Guntur 
+red alert! 
+There are 7 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 6) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12)]
+
+India: Prakasam 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)]
+
+India: West Godavari 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 8) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 7)]
+
+India: Cuddapah 
+red alert! 
+There are 8 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 7) datetime.date(2020, 1, 13)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)]
+
+India: Kurnool 
+red alert! 
+There are 10 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 13) datetime.date(2020, 1, 6)
+ datetime.date(2020, 1, 13) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 6) datetime.date(2020, 1, 7)
+ datetime.date(2020, 1, 12) datetime.date(2020, 1, 12)]
+
+India: Belgaum 
+red alert! 
+There are 5 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 10) datetime.date(2020, 1, 5)
+ datetime.date(2020, 1, 5) datetime.date(2020, 1, 10)
+ datetime.date(2020, 1, 4)]
+
+India: Surat 
+red alert! 
+There are 4 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 4) datetime.date(2020, 1, 9)
+ datetime.date(2020, 1, 10) datetime.date(2020, 1, 9)]
+
+Somalia: Jowhar 
+red alert! 
+There are 1 Sentinel-1 overpass 
+Mappable on:
+[datetime.date(2020, 1, 8)]
+
